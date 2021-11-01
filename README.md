@@ -1,7 +1,5 @@
 # Headphones
 
-Intégrez le template suivant :
-
 ![Preview](desktop.png)
 
 ## Informations supplémentaires :
